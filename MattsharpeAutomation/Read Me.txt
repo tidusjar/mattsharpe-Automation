@@ -1,0 +1,16 @@
+﻿Hello!
+
+Thank you for taking the time to look at this project.
+
+To get it to run you will need to re-add the References (stored in the ReferenceAssembiles folder),
+You will also have to change the DriverLocation property in the Constants class (TestHelpers.Constants).
+
+For the test framework I am using NUnit as it has quite a few advantages over MSTest (Even know I am not taking advantage in this solution currently).
+
+Last thing! You need Firefox installed, if you don't want this then comment out this line in the HomePageTest.cs:
+    [TestFixture(typeof(FirefoxDriver)), Category("Firefox")]
+
+There are some known problems with the IEDriver when using IE11. You need to do some local configuration to fix this unfortunatly.
+This is why it is good to use the Grid solution Selenium provide :)
+
+These tests should all pass but because there are a few issues on the form these tests are failing. E.g. having the Approved Date in the past.

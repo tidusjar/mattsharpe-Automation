@@ -1,0 +1,17 @@
+H:\Dropbox\Development\VisualStudio\MattsharpeAutomation\Tests\bin\Debug\Tests.dll
+H:\Dropbox\Development\VisualStudio\MattsharpeAutomation\Tests\bin\Debug\Tests.pdb
+H:\Dropbox\Development\VisualStudio\MattsharpeAutomation\Tests\bin\Debug\MattsharpeAutomation.dll
+H:\Dropbox\Development\VisualStudio\MattsharpeAutomation\Tests\bin\Debug\nunit.framework.dll
+H:\Dropbox\Development\VisualStudio\MattsharpeAutomation\Tests\bin\Debug\TestHelpers.dll
+H:\Dropbox\Development\VisualStudio\MattsharpeAutomation\Tests\bin\Debug\WebDriver.dll
+H:\Dropbox\Development\VisualStudio\MattsharpeAutomation\Tests\bin\Debug\WebDriver.Support.dll
+H:\Dropbox\Development\VisualStudio\MattsharpeAutomation\Tests\bin\Debug\MattsharpeAutomation.pdb
+H:\Dropbox\Development\VisualStudio\MattsharpeAutomation\Tests\bin\Debug\TestHelpers.pdb
+H:\Dropbox\Development\VisualStudio\MattsharpeAutomation\Tests\bin\Debug\nunit.framework.xml
+H:\Dropbox\Development\VisualStudio\MattsharpeAutomation\Tests\bin\Debug\WebDriver.pdb
+H:\Dropbox\Development\VisualStudio\MattsharpeAutomation\Tests\bin\Debug\WebDriver.xml
+H:\Dropbox\Development\VisualStudio\MattsharpeAutomation\Tests\bin\Debug\WebDriver.Support.pdb
+H:\Dropbox\Development\VisualStudio\MattsharpeAutomation\Tests\bin\Debug\WebDriver.Support.xml
+H:\Dropbox\Development\VisualStudio\MattsharpeAutomation\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+H:\Dropbox\Development\VisualStudio\MattsharpeAutomation\Tests\obj\Debug\Tests.dll
+H:\Dropbox\Development\VisualStudio\MattsharpeAutomation\Tests\obj\Debug\Tests.pdb
